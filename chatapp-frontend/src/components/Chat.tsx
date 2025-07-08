@@ -5,7 +5,6 @@ import Message from "./Message";
 import { PaperAirplaneIcon, PhotoIcon } from '@heroicons/react/24/outline';
 import EmojiPicker from "emoji-picker-react";
 import "../App.css";
-import { timeStamp } from 'console';
 
 interface ChatProps {
     userName: string;
